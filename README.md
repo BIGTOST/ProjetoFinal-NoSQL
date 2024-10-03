@@ -17,8 +17,8 @@ This project was developed as part of the completion of a course focused on NoSQ
 
 ## Technologies Used
 
--**Java:** Main language used to develop the application.
--**MongoDB:** NoSQL database used to store and manage movie data.
+- **Java:** Main language used to develop the application.
+- **MongoDB:** NoSQL database used to store and manage movie data.
 
 ## Requirements
 - **JDK** (Java Development Kit) Installed.
@@ -53,8 +53,8 @@ Este projeto foi desenvolvido como parte da conclusão de um curso focado em ban
 
 ## Requisitos
 
-- **JDK** (Java Development Kit) instalado | Installed.
-- **MongoDB** instalado e configurado | Installed and configured.
+- **JDK** (Java Development Kit) instalado.
+- **MongoDB** instalado e configurado.
 
 ## Como Executar o Projeto | How to Run the Project
 
