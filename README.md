@@ -1,6 +1,6 @@
 # Cinema Management Application (CMD)
 
-### English
+# English
 
 This project is a command-line application (CMD) developed in Java, created for managing a cinema. The application allows basic CRUD operations (Create, Read, Update, Delete) to manage the list of movies in the cinema.
 
@@ -31,7 +31,7 @@ This project was developed as part of the completion of a course focused on NoSQ
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git``
 
-### Português
+# Português
 
 Este projeto é uma aplicação de linha de comando (CMD) desenvolvida em Java, criada para a gestão de um cinema. A aplicação permite realizar operações básicas de CRUD (Create, Read, Update, Delete) para gerenciar a lista de filmes no cinema.
 
