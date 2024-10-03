@@ -29,7 +29,7 @@ This project was developed as part of the completion of a course focused on NoSQ
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git``
+   git clone https://https://github.com/BIGTOST/ProjetoFinal-NoSQL.git``
 
 # Português
 
@@ -61,4 +61,4 @@ Este projeto foi desenvolvido como parte da conclusão de um curso focado em ban
 1. Clone este repositório para a sua máquina local | Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://https://github.com/BIGTOST/ProjetoFinal-NoSQL.git
