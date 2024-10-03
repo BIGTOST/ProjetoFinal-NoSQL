@@ -29,7 +29,7 @@ This project was developed as part of the completion of a course focused on NoSQ
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://https://github.com/BIGTOST/ProjetoFinal-NoSQL.git``
+   git clone https://https://github.com/BIGTOST/ProjetoFinal-NoSQL.git
 
 # Português
 
